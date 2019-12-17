@@ -43,3 +43,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: NewLevel
+    uniqueID: 2721892171
+    locked: 0
+  - name: CurrentLevel
+    uniqueID: 672532685
+    locked: 0
+  - name: OldLevel
+    uniqueID: 3970368281
+    locked: 0

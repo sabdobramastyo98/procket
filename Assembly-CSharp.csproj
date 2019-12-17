@@ -56,8 +56,12 @@
      <Compile Include="Assets\Script\CameraMovement.cs" />
      <Compile Include="Assets\Script\GameManager.cs" />
      <Compile Include="Assets\Script\HandelMovement.cs" />
+     <Compile Include="Assets\Script\LevelManager.cs" />
+     <Compile Include="Assets\Script\MusicManager.cs" />
      <Compile Include="Assets\Script\ObjectMovement.cs" />
+     <Compile Include="Assets\Script\ObjectRotation.cs" />
      <Compile Include="Assets\Script\Rocket.cs" />
+     <Compile Include="Assets\Script\SceneManagement.cs" />
      <Compile Include="Assets\shadow.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/Rise-Up-2-master/Rise-Up-2-master/Procket/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
